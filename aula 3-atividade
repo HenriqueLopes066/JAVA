@@ -1,0 +1,16 @@
+algoritimo <notas aluno>
+
+var
+leia(nomeHenrique)
+
+leia(nota1)
+leia(nota2)
+leia(nota3)
+
+escreva("escreva sua primeira nota: ", nota1)10
+escreva("escreva sua segunda nota: ", nota2)6
+escreva("escreva sua terceira nota: ", nota3)8
+
+resultado <- nota1 + nota2 + nota3
+
+escreva("a média é: ", resultado)24
