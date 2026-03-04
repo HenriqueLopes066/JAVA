@@ -1,0 +1,6 @@
+var
+leia(letraA)
+leia(letraB)
+
+escreva("escreva o valor de a: ", letraA) 1
+escreva("escreva o valor de b: ", letraB) 2
