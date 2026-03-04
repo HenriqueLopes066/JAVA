@@ -1,12 +1,13 @@
 algoritimo <notas aluno>
 
 var
-leia(nomeHenrique)
+leia(nome)
 
 leia(nota1)
 leia(nota2)
 leia(nota3)
 
+escreva("escreva seu nome: ", nome)Henrique
 escreva("escreva sua primeira nota: ", nota1)10
 escreva("escreva sua segunda nota: ", nota2)6
 escreva("escreva sua terceira nota: ", nota3)8
