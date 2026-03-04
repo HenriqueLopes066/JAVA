@@ -1,0 +1,31 @@
+
+var
+leia(num1)
+leia(num2)
+
+escreva("escreva um numero: ", num1)4
+
+escreva("escreva um numero: ", num2)2
+
+resultado <- num1 + num2
+
+escreva("a soma dos resultados é: ", resultado)6
+
+resultado <- num1 - num2
+
+escreva("a subtração dos resultados é: ", resultado)2
+
+resultado <- num1 * num2
+
+escreva("a multiplicação dos resultados é: ", resultado)8
+
+resultado <- num1 / num2
+
+escreva("a soma dos resultados é: ", resultado)2
+
+
+
+
+
+
+
