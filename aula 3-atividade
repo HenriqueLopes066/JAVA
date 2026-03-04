@@ -12,6 +12,6 @@ escreva("escreva sua primeira nota: ", nota1)10
 escreva("escreva sua segunda nota: ", nota2)6
 escreva("escreva sua terceira nota: ", nota3)8
 
-resultado <- nota1 + nota2 + nota3 / 2
+resultado <- nota1 + nota2 + nota3 / 3
 
 escreva("a média é: ", resultado)12
