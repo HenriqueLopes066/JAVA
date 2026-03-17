@@ -1,11 +1,13 @@
 
 var
-leia(num1)
-leia(num2)
 
 escreva("escreva um numero: ", num1)4
 
+leia(num1)
+
 escreva("escreva um numero: ", num2)2
+
+leia(num2
 
 resultado <- num1 + num2
 
