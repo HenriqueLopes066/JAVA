@@ -2,13 +2,14 @@ algoritimo <valor trocado>
 
 
 var
-leia(letraA)
-leia(letraB)
 
 escreva("escreva o valor de A: ", letraA) 1
+
+leia(letraA)
+
 escreva("escreva o valor de B: ", letraB) 2
 
-A <- letraA = 2
+leia(letraB) <- letraA = 2
 B <- letraB = 1
 
 escreva(" o valor de A é: ")2
