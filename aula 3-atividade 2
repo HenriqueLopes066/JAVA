@@ -9,7 +9,8 @@ leia(letraA)
 
 escreva("escreva o valor de B: ", letraB) 2
 
-leia(letraB) <- letraA = 2
+leia(letraB)
+A <- letraA = 2
 B <- letraB = 1
 
 escreva(" o valor de A é: ")2
