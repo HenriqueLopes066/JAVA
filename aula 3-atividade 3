@@ -10,6 +10,6 @@ escreva(" qual o nome do vendedor: ", vendedor)Fulano
 escreva("qual o salario fixo: ", salario)1.500
 escreva("qual o valor total de vendas: ", vendas)500
 
-comissao <- 15% de 500
+comissao <- 0,15* 500 = 75
 escreva("quanto o vendedor ganhou de comissao: ",comissao) 75
 
