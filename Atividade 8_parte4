@@ -1,0 +1,22 @@
+algoritmo <classificar_idades>
+
+var
+idade: inteiro
+i: inteiro
+
+inicio
+
+para i de 1 ate 75 faca
+
+escreva("Digite a idade da pessoa ", i, ": ")
+leia(idade)
+
+se (idade >= 60) entao
+escreva("Idoso")
+senao
+se (idade >= 18) entao
+escreva("Maior de idade")
+senao
+escreva("Menor de idade")
+
+fimalgoritmo
