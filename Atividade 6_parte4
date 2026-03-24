@@ -1,0 +1,33 @@
+algoritimo <maior_numero>
+
+var
+
+n1, n2, maior: inteiro
+
+inicio
+
+escreva("escreva o primeiro numero: ")
+leia(n1)
+
+escreva("escreva o segundo numero: ")
+leia(n1)
+
+se (n1 > n2) então
+maior <- n1
+
+senão
+maior <- n2
+
+
+escreva("o maior numero e:", maior)
+
+se (maior >=1 e maior <= 99) então
+escreva("esta entre 1 e 99")
+senão
+se (maior >= 100 e maior <= 199) então
+escreva("esta entre 100 e 199")
+senão 
+se (maior >= 200) então
+escreva ("é maior ou igual a 200")
+
+fimalgoritimo
